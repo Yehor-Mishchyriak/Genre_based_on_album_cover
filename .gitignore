@@ -1,0 +1,10 @@
+# Ignore all files
+*
+
+# Except:
+!organizing.ipynb
+!preprocessing.ipynb
+!training.ipynb
+!album_covers_dataset.csv
+!requirements.txt
+!.gitignore
