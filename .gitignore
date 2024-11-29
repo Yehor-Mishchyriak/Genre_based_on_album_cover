@@ -3,8 +3,7 @@
 
 # Except:
 !organizing.ipynb
-!preprocessing_augmentation.ipynb
-!training.ipynb
+!preprocessing_augmentation_training.ipynb
 !utils.py
 !requirements.txt
 !config.json
