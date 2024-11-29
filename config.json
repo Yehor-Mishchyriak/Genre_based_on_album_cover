@@ -1,5 +1,10 @@
 {
     "G-drive_link": "https://drive.google.com/drive/u/0/folders/10SQg6ZNc48e4rBD8nJ94iI4_KkvScOdn",
     "album_cover_imgs": "https://drive.google.com/uc?id=1LrygB3h79OvHPqOjkMHicoIthQ8DBfcy",
-    "labeled_dataset": "https://drive.google.com/uc?id=1CCG4vXO3KMK42lbE5ckUTYuBgveOgLi5"
+    "raw_dataset": "https://drive.google.com/uc?id=15mXCMH9lpOGCk-z9MTDWx5Uuj6kkL5JL",
+    "processed_labeled_dataset": "https://drive.google.com/uc?id=1CCG4vXO3KMK42lbE5ckUTYuBgveOgLi5",
+
+    "organized_dataset_name": "organized_data.csv",
+    "preprocessed_dataset_name": "preprocessed_data.csv",
+    "augmented_dataset_name": "preprocessed_augmented_data.csv"
 }

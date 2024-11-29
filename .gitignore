@@ -5,6 +5,8 @@
 !organizing.ipynb
 !preprocessing.ipynb
 !training.ipynb
+!utils.py
 !requirements.txt
 !config.json
+!category_keywords.json
 !.gitignore
