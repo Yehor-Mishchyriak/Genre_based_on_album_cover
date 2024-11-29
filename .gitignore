@@ -5,7 +5,6 @@
 !organizing.ipynb
 !preprocessing.ipynb
 !training.ipynb
-!album_covers_dataset.csv
 !requirements.txt
+!config.json
 !.gitignore
-!album_covers.zip
