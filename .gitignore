@@ -9,5 +9,6 @@
 !config.json
 !category_keywords.json
 !fewer_categories.json
+!country_classical.json
 !image_collector.ipynb
 !.gitignore
