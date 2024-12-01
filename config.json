@@ -1,8 +1,11 @@
 {
     "G-drive_link": "https://drive.google.com/drive/u/0/folders/10SQg6ZNc48e4rBD8nJ94iI4_KkvScOdn",
-    "album_cover_imgs": "https://drive.google.com/uc?id=1LrygB3h79OvHPqOjkMHicoIthQ8DBfcy",
-    "raw_dataset": "https://drive.google.com/uc?id=15mXCMH9lpOGCk-z9MTDWx5Uuj6kkL5JL",
-    "processed_labeled_dataset": "https://drive.google.com/uc?id=1CCG4vXO3KMK42lbE5ckUTYuBgveOgLi5",
+
+    "small_dataset_imgs": "https://drive.google.com/uc?id=1LrygB3h79OvHPqOjkMHicoIthQ8DBfcy",
+    "small_dataset_csv": "https://drive.google.com/uc?id=15mXCMH9lpOGCk-z9MTDWx5Uuj6kkL5JL",
+
+    "large_dataset_imgs": "https://drive.google.com/uc?id=1SclqlPrDQQ3tYZcAC4LR6tLRiii7qZJF",
+    "large_dataset_csv": "https://drive.google.com/uc?id=1Up0kFTtyaz-CoiHIKoYAmfdLK7voK6xl",
 
     "organized_dataset_name": "organized_data.csv",
     "preprocessed_dataset_name": "preprocessed_data.csv",
