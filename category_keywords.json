@@ -4,9 +4,7 @@
         "pop": 1,
         "jazz/classical": 2,
         "country": 3,
-        "rock": 4,
-        "electronic": 5,
-        "religious": 6},
+        "rock": 4},
 
     "keyword_to_category":
         {"hip hop": "rap",
@@ -153,15 +151,6 @@
         "trancecore": "rock",
         "screamo": "rock",
         "melodic thrash": "rock",
-        "psychobilly": "rock",
-        "house": "electronic",
-        "trance": "electronic",
-        "dubstep": "electronic",
-        "chillwave": "electronic",
-        "jamtronica": "electronic",
-        "gospel": "religious",
-        "urbano latino": "religious",
-        "anthem worship": "religious",
-        "ambient worship": "religious"}
+        "psychobilly": "rock"}
 
 }
