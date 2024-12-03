@@ -16,13 +16,13 @@
 
 #### Calculations:
 - **True Positives (TP):**
-  \[
+  $$
   TP = \text{Recall} \times \text{Support} = 0.84 \times 133 = 111.72 \approx 112
-  \]
+  $$
 - **Guesses:**
-  \[
+  $$
   \text{Guesses} = \frac{TP}{\text{Precision}} = \frac{112}{0.85} \approx 132
-  \]
+  $$
 
 #### Results:
 - **Guesses for Rap:** 132  
@@ -38,13 +38,13 @@
 
 #### Calculations:
 - **True Positives (TP):**
-  \[
+  $$
   TP = \text{Recall} \times \text{Support} = 0.79 \times 153 = 120.87 \approx 121
-  \]
+  $$
 - **Guesses:**
-  \[
+  $$
   \text{Guesses} = \frac{TP}{\text{Precision}} = \frac{121}{0.66} \approx 183
-  \]
+  $$
 
 #### Results:
 - **Guesses for Jazz/Classical:** 183  
@@ -60,13 +60,13 @@
 
 #### Calculations:
 - **True Positives (TP):**
-  \[
+  $$
   TP = \text{Recall} \times \text{Support} = 0.60 \times 143 = 85.8 \approx 86
-  \]
+  $$
 - **Guesses:**
-  \[
+  $$
   \text{Guesses} = \frac{TP}{\text{Precision}} = \frac{86}{0.75} \approx 115
-  \]
+  $$
 
 #### Results:
 - **Guesses for Country:** 115  
