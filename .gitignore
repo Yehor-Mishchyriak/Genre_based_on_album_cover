@@ -11,4 +11,5 @@
 !fewer_categories.json
 !image_collector.ipynb
 !classification_report_for_three_categories.md
+!classifier_2.0.pth
 !.gitignore
