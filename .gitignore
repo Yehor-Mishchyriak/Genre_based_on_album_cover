@@ -4,8 +4,14 @@
 # Except:
 !organizing.ipynb
 !preprocessing_augmentation_training.ipynb
+!image_collector.ipynb
+!simple_model.ipynb
+
 !utils.py
+
 !requirements.txt
+!.gitignore
+
 !config.json
 !3_cat.json
 !3_cat.csv
@@ -14,8 +20,5 @@
 !5_cat.json
 !5_cat.csv
 !category_keywords.json
-!image_collector.ipynb
-!classification_report_for_three_categories.md
-!m2_3cat.pth
-!simple_model.ipynb
-!.gitignore
+
+!m3_5cat.pth
